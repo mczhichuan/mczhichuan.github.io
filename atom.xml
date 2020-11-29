@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cmh-dypm.github.io</id>
     <title>MCpm</title>
-    <updated>2020-11-28T13:02:15.670Z</updated>
+    <updated>2020-11-29T03:51:12.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cmh-dypm.github.io"/>
     <link rel="self" href="https://cmh-dypm.github.io/atom.xml"/>
@@ -14,13 +14,6 @@
         <title type="html"><![CDATA[新云服务器]]></title>
         <id>https://cmh-dypm.github.io/post/emm/</id>
         <link href="https://cmh-dypm.github.io/post/emm/">
-        </link>
-        <updated>2020-11-28T13:00:34.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新云服务器]]></title>
-        <id>https://cmh-dypm.github.io/post/xin-yun-fu-wu-qi/</id>
-        <link href="https://cmh-dypm.github.io/post/xin-yun-fu-wu-qi/">
         </link>
         <updated>2020-11-28T13:00:34.000Z</updated>
     </entry>
