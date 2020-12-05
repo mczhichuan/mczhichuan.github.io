@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cmh-dypm.github.io</id>
     <title>MC纸船</title>
-    <updated>2020-12-05T13:28:39.598Z</updated>
+    <updated>2020-12-05T13:35:40.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cmh-dypm.github.io"/>
     <link rel="self" href="https://cmh-dypm.github.io/atom.xml"/>
@@ -25,16 +25,16 @@
         <updated>2020-11-28T01:58:39.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pm整合]]></title>
-        <id>https://cmh-dypm.github.io/post/pm-zheng-he/</id>
-        <link href="https://cmh-dypm.github.io/post/pm-zheng-he/">
+        <title type="html"><![CDATA[纸船整合]]></title>
+        <id>https://cmh-dypm.github.io/post/纸船整合/</id>
+        <link href="https://cmh-dypm.github.io/post/纸船整合/">
         </link>
         <updated>2020-11-14T02:11:49.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PM]]></title>
-        <id>https://cmh-dypm.github.io/post/pm/</id>
-        <link href="https://cmh-dypm.github.io/post/pm/">
+        <title type="html"><![CDATA[纸船]]></title>
+        <id>https://cmh-dypm.github.io/post/zhichuan/</id>
+        <link href="https://cmh-dypm.github.io/post/zhichuan/">
         </link>
         <updated>2020-10-25T08:01:02.000Z</updated>
     </entry>
