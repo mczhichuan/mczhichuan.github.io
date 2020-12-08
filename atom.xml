@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cmh-dypm.github.io</id>
+    <id>https://mczhichuan.github.io</id>
     <title>MC纸船</title>
-    <updated>2020-12-05T13:35:52.078Z</updated>
+    <updated>2020-12-08T12:39:49.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cmh-dypm.github.io"/>
-    <link rel="self" href="https://cmh-dypm.github.io/atom.xml"/>
+    <link rel="alternate" href="https://mczhichuan.github.io"/>
+    <link rel="self" href="https://mczhichuan.github.io/atom.xml"/>
     <subtitle>MC纸船</subtitle>
-    <logo>https://cmh-dypm.github.io/images/avatar.png</logo>
-    <icon>https://cmh-dypm.github.io/favicon.ico</icon>
+    <logo>https://mczhichuan.github.io/images/avatar.png</logo>
+    <icon>https://mczhichuan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MC纸船</rights>
     <entry>
-        <title type="html"><![CDATA[新云服务器]]></title>
-        <id>https://cmh-dypm.github.io/post/emm/</id>
-        <link href="https://cmh-dypm.github.io/post/emm/">
+        <title type="html"><![CDATA[我的世界教程！！]]></title>
+        <id>https://mczhichuan.github.io/mc教程/</id>
+        <link href="https://mczhichuan.github.io/mc教程/">
+        </link>
+        <updated>2020-12-08T12:36:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纸船服务器]]></title>
+        <id>https://mczhichuan.github.io/server/</id>
+        <link href="https://mczhichuan.github.io/server/">
         </link>
         <updated>2020-11-28T13:00:34.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MCpm的博客？]]></title>
-        <id>https://cmh-dypm.github.io/post/mcpm-de-bo-ke/</id>
-        <link href="https://cmh-dypm.github.io/post/mcpm-de-bo-ke/">
-        </link>
-        <updated>2020-11-28T01:58:39.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纸船整合]]></title>
-        <id>https://cmh-dypm.github.io/post/纸船整合/</id>
-        <link href="https://cmh-dypm.github.io/post/纸船整合/">
-        </link>
-        <updated>2020-11-14T02:11:49.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[纸船]]></title>
-        <id>https://cmh-dypm.github.io/post/zhichuan/</id>
-        <link href="https://cmh-dypm.github.io/post/zhichuan/">
+        <id>https://mczhichuan.github.io/zhichuan/</id>
+        <link href="https://mczhichuan.github.io/zhichuan/">
         </link>
         <updated>2020-10-25T08:01:02.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[每日实力]]></title>
-        <id>https://cmh-dypm.github.io/post/mei-ri-shi-li/</id>
-        <link href="https://cmh-dypm.github.io/post/mei-ri-shi-li/">
+        <id>https://mczhichuan.github.io/shili/</id>
+        <link href="https://mczhichuan.github.io/shili/">
         </link>
         <updated>2020-10-17T03:29:04.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[投稿！（什么都可以）]]></title>
-        <id>https://cmh-dypm.github.io/post/wen-ti-tou-gao-shi-me-du-ke-yi/</id>
-        <link href="https://cmh-dypm.github.io/post/wen-ti-tou-gao-shi-me-du-ke-yi/">
+        <id>https://mczhichuan.github.io/xougao/</id>
+        <link href="https://mczhichuan.github.io/xougao/">
         </link>
         <updated>2020-09-29T12:29:15.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于捐赠]]></title>
-        <id>https://cmh-dypm.github.io/post/guan-yu-juan-zeng/</id>
-        <link href="https://cmh-dypm.github.io/post/guan-yu-juan-zeng/">
+        <id>https://mczhichuan.github.io/juanzen/</id>
+        <link href="https://mczhichuan.github.io/juanzen/">
         </link>
         <updated>2020-09-26T09:03:38.000Z</updated>
     </entry>
